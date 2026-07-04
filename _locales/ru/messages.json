@@ -1,0 +1,611 @@
+{
+  "default_title": {
+    "message": "AIX Downloader(Pictrue/Video/Music)"
+  },
+  "description": {
+    "message": "Загружайте онлайн-видео, музыку, mp3, изображения и т. Д. С веб-сайтов и управляйте всеми загруженными файлами."
+  },
+  "picture": {
+    "message": "Изображение"
+  },
+  "all": {
+    "message": "Все"
+  },
+  "video": {
+    "message": "Видео"
+  },
+  "audio": {
+    "message": "Аудио"
+  },
+  "file": {
+    "message": "Документ"
+  },
+  "open": {
+    "message": "открыть файл"
+  },
+  "fileDeExist": {
+    "message": "файл не существует"
+  },
+  "openDirectory": {
+    "message": "Открыть каталог файлов"
+  },
+  "copyLink": {
+    "message": "Скопировать ссылку на файл"
+  },
+  "copySuccess": {
+    "message": "Копировать успешно"
+  },
+  "copyFailed": {
+    "message": "Ошибка копирования"
+  },
+  "rFList": {
+    "message": "Убрать из списка"
+  },
+  "rFComputer": {
+    "message": "Удалить с компьютера"
+  },
+  "suspend": {
+    "message": "тайм-аут"
+  },
+  "suspended": {
+    "message": "Приостановлено"
+  },
+  "continue": {
+    "message": "продолжать"
+  },
+  "retry": {
+    "message": "Повторить"
+  },
+  "cancel": {
+    "message": "Отмена"
+  },
+  "confirm": {
+    "message": "подтверждать"
+  },
+  "confirmClear": {
+    "message": "подтверждать удалить все?"
+  },
+  "tips": {
+    "message": "Подсказка"
+  },
+  "addDownloadLink": {
+    "message": "Добавить ссылку для скачивания"
+  },
+  "newDownloadTask": {
+    "message": "Новая задача загрузки"
+  },
+  "pleaseEnterTheLink": {
+    "message": "Пожалуйста, введите ссылку"
+  },
+  "downloading": {
+    "message": "скачивается"
+  },
+  "completed": {
+    "message": "Завершено"
+  },
+  "wronged": {
+    "message": "Ненормальная загрузка"
+  },
+  "deleted": {
+    "message": "Был удален"
+  },
+  "filter": {
+    "message": "Проверка задач"
+  },
+  "clearDownloadRecords": {
+    "message": "Очистить историю загрузок"
+  },
+  "clearDownloaded": {
+    "message": "Очистить скачанный"
+  },
+  "clearWronged": {
+    "message": "Очистить неудачи"
+  },
+  "clearCeleted": {
+    "message": "Очистить удаленные"
+  },
+  "clearAll": {
+    "message": "очистить список"
+  },
+  "about": {
+    "message": "о"
+  },
+  "options": {
+    "message": "Настройки"
+  },
+  "width": {
+    "message": "ширина"
+  },
+  "height": {
+    "message": "высота"
+  },
+  "EXT": {
+    "message": "формат"
+  },
+  "SORT": {
+    "message": "классификация"
+  },
+  "ORDER": {
+    "message": "приоритет"
+  },
+  "preview": {
+    "message": "Предварительный просмотр "
+  },
+  "rename": {
+    "message": "имя"
+  },
+  "download_simple": {
+    "message": "Down"
+  },
+  "download": {
+    "message": "скачать"
+  },
+  "selectAll": {
+    "message": "все"
+  },
+  "deSelect": {
+    "message": "анти"
+  },
+  "pack": {
+    "message": "zip"
+  },
+  "other": {
+    "message": "другие"
+  },
+  "auto": {
+    "message": "автоматический"
+  },
+  "bigPictureFirst": {
+    "message": "Большой"
+  },
+  "smallPictureFirst": {
+    "message": "маленький"
+  },
+  "bigVideoFirst": {
+    "message": "Большой"
+  },
+  "smallVideoFirst": {
+    "message": "маленький"
+  },
+  "bigAudioFirst": {
+    "message": "Большой"
+  },
+  "smallAudioFirst": {
+    "message": "маленький"
+  },
+  "bigFileFirst": {
+    "message": "Большой"
+  },
+  "smallFileFirst": {
+    "message": "маленький"
+  },
+  "small": {
+    "message": "маленький"
+  },
+  "big": {
+    "message": "Большой"
+  },
+  "size": {
+    "message": "размер"
+  },
+  "openInNewWindow": {
+    "message": "открыть в новом окне"
+  },
+  "routine": {
+    "message": "обычный"
+  },
+  "notice": {
+    "message": "Уведомление"
+  },
+  "router": {
+    "message": "Классификация"
+  },
+  "smartRules": {
+    "message": "Правило"
+  },
+  "enableOriginalBar": {
+    "message": "Включить исходную панель загрузки Chrome "
+  },
+  "enableContextMenu": {
+    "message": "Включите \"умный загрузчик скачает\" для меню правой кнопки мыши "
+  },
+  "notificationAfterFinished": {
+    "message": "Уведомление о завершении загрузки "
+  },
+  "otificationAfterFailed": {
+    "message": "Уведомление о сбое загрузки "
+  },
+  "playSoundAfterFinished": {
+    "message": "звук подставки о завершении загрузки "
+  },
+  "playSoundAfterFailed": {
+    "message": "Звук сбоя загрузки "
+  },
+  "enableRouter": {
+    "message": "Открыть классификацию загрузок "
+  },
+  "routerExpound": {
+    "message": "Эта функция автоматически распределяет файлы в соответствующие подпапки в папке загрузки. Ниже приведен список расширений файлов и каталог, в который они будут помещены после загрузки. "
+  },
+  "enableSmartScripts": {
+    "message": "Включите смарт-скрипт "
+  },
+  "version": {
+    "message": "номер версии"
+  },
+  "update": {
+    "message": "Проверить обновления "
+  },
+  "folder": {
+    "message": "папка"
+  },
+  "operation": {
+    "message": "операция"
+  },
+  "edit": {
+    "message": "редактировать"
+  },
+  "save": {
+    "message": "сохранять"
+  },
+  "delete": {
+    "message": "Удалить"
+  },
+  "addDir": {
+    "message": "Добавить каталог "
+  },
+  "confirmDeletion": {
+    "message": "подтвердить удаление "
+  },
+  "downloadUsingDM": {
+    "message": "Скачать с помощью умного загрузчика "
+  },
+  "downloadAllImgUsingDM": {
+    "message": "Скачать все картинки"
+  },
+  "folderDuplicated": {
+    "message": "Папка не может быть повторена "
+  },
+  "name": {
+    "message": "Name"
+  },
+  "URL": {
+    "message": "адрес сайта"
+  },
+  "DESC": {
+    "message": "описание"
+  },
+  "fileHasBeenDeleted": {
+    "message": "Файл удален"
+  },
+  "downloadHasBeenCancelled": {
+    "message": "Скачивание отменено"
+  },
+  "updatedToTheLatestVersion": {
+    "message": "Обновлено до последней версии"
+  },
+  "thisIsTheLatestVersion": {
+    "message": "На данный момент уже последняя версия"
+  },
+  "checkNetworkConnection": {
+    "message": "Сбой в сети, проверьте сеть или прокси"
+  },
+  "aboutDesc": {
+    "message": "AIX умный загрузчик может эффективно реализовывать управление загрузкой, анализ и загрузку контента, такого как изображения веб-страниц, видео, аудио, и в то же время расширять и интегрировать интеллектуальные скрипты с нескольких веб-сайтов для быстрого извлечения нужного контента."
+  },
+  "aboutHeaderDesc": {
+    "message": "Быть лучшим умным загрузчиком в chrome"
+  },
+  "contactUs": {
+    "message": "Пожалуйста, свяжитесь с нами, если у вас возникнут проблемы"
+  },
+  "feedback": {
+    "message": "Обратная связь"
+  },
+  "fTitle": {
+    "message": "AIX Downloader"
+  },
+  "fTouch": {
+    "message": "Связаться с нами"
+  },
+  "fDesc": {
+    "message": "Пожалуйста, свяжитесь с нами если у вас есть обратная связь и предложения или вы хотите получить помощь"
+  },
+  "fSupport": {
+    "message": "Вы также можете дать хороший отзыв или предложить поддержку в интернет-магазине "
+  },
+  "fWebstore": {
+    "message": "Идти к"
+  },
+  "fMessage": {
+    "message": "Напишите свое сообщение "
+  },
+  "fUploadImage": {
+    "message": "добавить ваше фото"
+  },
+  "fUuploadbutton": {
+    "message": "Пожалуйста, нажмите здесь, чтобы добавить изображения "
+  },
+  "fEmail": {
+    "message": "Ваша почта"
+  },
+  "fName": {
+    "message": "ваше имя"
+  },
+  "fSend": {
+    "message": "отправить"
+  },
+  "fSuccess": {
+    "message": "Спасибо за вашу обратную связь"
+  },
+  "fSendPicture": {
+    "message": "Вы можете загрузить не более двух изображений "
+  },
+  "fSendFormat": {
+    "message": "Загрузка должна быть в формате изображения"
+  },
+  "fAlert": {
+    "message": "Убедитесь, что ваш адрес электронной почты правильный. \nСообщение обратной связи должно состоять не менее чем из 5 символов."
+  },
+  "fText": {
+    "message": "Запишите свои вопросы или предложения"
+  },
+  "SELA": {
+    "message": "выбрать все"
+  },
+  "DSEL": {
+    "message": "Антивыбрать"
+  },
+  "DOWN": {
+    "message": "скачать"
+  },
+  "EXETitle": {
+    "message": "AIX Downloader"
+  },
+  "EXELeftTitle": {
+    "message": "управление"
+  },
+  "EXERightTitle": {
+    "message": "сканирование"
+  },
+  "ruleDetail1": {
+    "message": "В соответствии с этим форматом {EXT} сохранит суффикс имени самого изображения, если вы его не переместите"
+  },
+  "ruleDetail2": {
+    "message": "\"pic_\" можно изменить на то, что вы хотите"
+  },
+  "ruleDetail3": {
+    "message": "Могут использоваться следующие переменные: "
+  },
+  "ruleDetail4": {
+    "message": "{NO} указывает серийный номер; {NO01}, {NO001} Указывает, что перед серийным номером добавлен 0 и так далее; {EXT} указывает имя расширения; {NAME} указывает исходное имя файла; {PAGETITLE} указывает заголовок страницы "
+  },
+  "ruleDetail5": {
+    "message": "Например, есть 2 изображения dongman.jpg и meijing.gif "
+  },
+  "ruleDetail6": {
+    "message": "pic_ {NO001}. {EXT} будет переименован в "
+  },
+  "ruleDetail7": {
+    "message": "{NAME} _ {NO001}. {EXT} будет переименован в "
+  },
+  "details": {
+    "message": "Подробности"
+  },
+  "retract": {
+    "message": "Свернуть детали "
+  },
+  "ruleDetail": {
+    "message": "{NO} серийный номер; {EXT} имя суффикса; {NAME} исходное имя файла; {PAGETITLE} заголовок страницы; {DATE} отметка времени "
+  },
+  "choosePicture": {
+    "message": "Изображение области комментариев"
+  },
+  "outSELA": {
+    "message": "выбрать все"
+  },
+  "outDSEL": {
+    "message": "антивыбрать"
+  },
+  "minWidth": {
+    "message": "Минимальная ширина "
+  },
+  "maxWidth": {
+    "message": "Максимальная ширина "
+  },
+  "minHeight": {
+    "message": "Минимальная высота "
+  },
+  "maxHeight": {
+    "message": "максимальная высота"
+  },
+  "page": {
+    "message": "Страницы комментариев"
+  },
+  "to": {
+    "message": " к "
+  },
+  "go": {
+    "message": "Получать"
+  },
+  "downloadCommentImage": {
+    "message": "Скачать картинку комментария "
+  },
+  "help": {
+    "message": "помощь"
+  },
+  "aboutOp": {
+    "message": "Вступление"
+  },
+  "recommendations": {
+    "message": "Предложить"
+  },
+  "recommendationsDesc": {
+    "message": "У вас есть лучшее представление о том, как улучшить AIX умный загрузчик?"
+  },
+  "recommendationsDesc2": {
+    "message": "Поделитесь с нами своими мыслями в форме "
+  },
+  "recommendationsDesc3": {
+    "message": "."
+  },
+  "bugs": {
+    "message": "проблема"
+  },
+  "bugsDesc1": {
+    "message": "Если вы обнаружите проблему, вы можете немедленно "
+  },
+  "bugsDesc2": {
+    "message": "связаться с нами"
+  },
+  "bugsDesc3": {
+    "message": "."
+  },
+  "email": {
+    "message": "Почта"
+  },
+  "group": {
+    "message": "Группа обмена"
+  },
+  "oldVersion": {
+    "message": "Использовать старую версию"
+  },
+  "openInNewTab": {
+    "message": "Открыть в новой вкладке"
+  },
+  "newTabTip": {
+    "message": "Фильтровать неудобно, нажмите здесь!"
+  },
+  "downloadButtonOn": {
+    "message": "Вкл"
+  },
+  "downloadButtonOff": {
+    "message": "Выкл"
+  },
+  "downloadButtonTip": {
+    "message": "Кнопка DL"
+  },
+  "notifEnabledTip": {
+    "message": "Настройка выполнена успешно, и она вступит в силу после перезапуска. Вы хотите перезапустить сейчас?"
+  },
+  "enableHotKey": {
+    "message": "Извлечь сочетания клавиш на новой странице "
+  },
+  "example": {
+    "message": "пример"
+  },
+  "hotKeyRemind": {
+    "message": "Пожалуйста, введите комбинацию клавиш прямо на клавиатуре"
+  },
+  "exitSetting": {
+    "message": "Выйти из настроек "
+  },
+  "enabledDragDownload": {
+    "message": "Открыть загрузку с перетаскиванием "
+  },
+  "dragDownloadTitle": {
+    "message": "Перетащите сюда, чтобы скачать"
+  },
+  "dragDownloadDesc": {
+    "message": "Картинка будет загружена "
+  },
+  "supportedBy": {
+    "message": "AIX Downloader"
+  },
+  "updt": {
+    "message": "Обновлять"
+  },
+  "add": {
+    "message": "Добавлять"
+  },
+  "cacheTitle": {
+    "message": "В кеше видео не обновляйте и не закрывайте страницу, на которой находится видео! ! !"
+  },
+  "opWebpToJpg": {
+    "message": "Изображения WEBP в формат JPG"
+  },
+  "opMoreImgSel": {
+    "message": "По умолчанию показывать больше параметров изображения"
+  },
+  "opSaveImgSize": {
+    "message": "Помните размер фильтра изображения"
+  },
+  "opExpPage": {
+    "message": "Информация о странице экспорта"
+  },
+  "more": {
+    "message": "больше"
+  },
+  "expImgLink": {
+    "message": "Экспорт IMG-ссылок"
+  },
+  "customFormat": {
+    "message": "Пользовательский формат"
+  },
+  "imgFilter": {
+    "message": "Фильтр"
+  },
+  "imgFilterTitle": {
+    "message": "Включать Фильтр"
+  },
+  "imgFilterDesc": {
+    "message": "Включите эту функцию, чтобы отфильтровать изображения, которые вы не хотите извлекать с веб-сайта."
+  },
+  "imgFilterDesc2": {
+    "message": "Пример:\nДоменное имя \"*\", регулярное выражение \". *?\", Что означает фильтрацию всех изображений всех веб-сайтов. (Для доменного имени установлено значение “*” или оно не заполнено, что означает, что все веб-сайты отфильтрованы)\nДоменное имя \"www.example.com\", регулярное выражение \"abc\", означает фильтрацию изображений, содержащих \"abc\" в ссылке на изображение под именем домена \"www.example.com\"."
+  },
+  "imgFilterYm": {
+    "message": "Доменное имя"
+  },
+  "imgFilterReg": {
+    "message": "Регулярное выражение"
+  },
+  "domainDuplicated": {
+    "message": "Доменное имя не может повторяться"
+  },
+  "noData": {
+    "message": "Нет данных"
+  },
+  "enableBoxSelect": {
+    "message": "Выбор изображения перетаскиванием"
+  },
+  "noVideo": {
+    "message": "Не получили видео? Нажмите Играть чтобы попробовать"
+  },
+  "noAudio": {
+    "message": "Не слышно звука? Нажмите Играть чтобы попробовать"
+  },
+  "dupImgLinkNaming": {
+    "message": "Повторяющееся имя изображения"
+  },
+  "YouTubeVideoError": {
+    "message": "Из-за политик и ограничений интернет-магазинов Google и Chrome загрузка видео не работает на веб-сайте YouTube или любых других видеороликах YouTube, встроенных в другие веб-сайты."
+  },
+  "officialwebsite": {
+    "message": "Официальный веб-сайт"
+  },
+  "formatError": {
+    "message": "format error"
+  },
+  "importRule": {
+    "message": "import"
+  },
+  "exportRule": {
+    "message": "export"
+  },
+  "notifications_success_title": {
+    "message": "Загрузка завершена"
+  },
+  "notifications_fail_title": {
+    "message": "Ошибка загрузки"
+  },
+  "notifications_open_file": {
+    "message": "Открыть файл"
+  },
+  "notifications_open_dir": {
+    "message": "Показать в папке"
+  },
+  "analyzing": {
+    "message": "Анализ"
+  }
+}

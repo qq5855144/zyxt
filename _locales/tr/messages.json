@@ -1,0 +1,611 @@
+{
+  "default_title": {
+    "message": "AIX Akıllı indirici(Resim/Video/Müzik/Belge)"
+  },
+  "description": {
+    "message": "AIX Intelligent Downloader web sayfalarındaki resimleri, videoları, sesleri ve diğer içerikleri etkili bir şekilde koklayabilir ve indirebilir."
+  },
+  "picture": {
+    "message": "Resim"
+  },
+  "all": {
+    "message": "Tüm"
+  },
+  "video": {
+    "message": "Video"
+  },
+  "audio": {
+    "message": "Müzik"
+  },
+  "file": {
+    "message": "Belge"
+  },
+  "open": {
+    "message": "Dosya aç"
+  },
+  "fileDeExist": {
+    "message": "Kural"
+  },
+  "openDirectory": {
+    "message": "Dosya dizinini aç"
+  },
+  "copyLink": {
+    "message": "Dosya bağlantısını kopyala"
+  },
+  "copySuccess": {
+    "message": "Başarıyla kopyala"
+  },
+  "copyFailed": {
+    "message": "Başarısız kopyala"
+  },
+  "rFList": {
+    "message": "Listeden sil"
+  },
+  "rFComputer": {
+    "message": "Bilgisayardan sil"
+  },
+  "suspend": {
+    "message": "askıya almak"
+  },
+  "suspended": {
+    "message": "duraklatıldı"
+  },
+  "continue": {
+    "message": "sürdürmek"
+  },
+  "retry": {
+    "message": "yeniden dene"
+  },
+  "cancel": {
+    "message": "iptal etmek"
+  },
+  "confirm": {
+    "message": "Evet"
+  },
+  "confirmClear": {
+    "message": "Boş onaylayın？"
+  },
+  "tips": {
+    "message": "Tips"
+  },
+  "addDownloadLink": {
+    "message": "İndirmek için bağlantı ekleyin"
+  },
+  "newDownloadTask": {
+    "message": "Yeni indirme görevi"
+  },
+  "pleaseEnterTheLink": {
+    "message": "Lütfen bağlantıyı girin"
+  },
+  "downloading": {
+    "message": "Devam etmekte"
+  },
+  "completed": {
+    "message": "Tamamlandı"
+  },
+  "wronged": {
+    "message": "Yanlış"
+  },
+  "deleted": {
+    "message": "Silindi"
+  },
+  "filter": {
+    "message": "Filtre"
+  },
+  "clearDownloadRecords": {
+    "message": "İndirme geçmişini temizle"
+  },
+  "clearDownloaded": {
+    "message": "İndirilenleri temizle"
+  },
+  "clearWronged": {
+    "message": "Hatayı temizle"
+  },
+  "clearCeleted": {
+    "message": "Silinenleri temizle"
+  },
+  "clearAll": {
+    "message": "Hepsini temizle"
+  },
+  "about": {
+    "message": "Hakkında"
+  },
+  "options": {
+    "message": "Seçenekler"
+  },
+  "width": {
+    "message": "Genişlik"
+  },
+  "height": {
+    "message": "Yüksek"
+  },
+  "EXT": {
+    "message": "Biçim"
+  },
+  "SORT": {
+    "message": "TÜR"
+  },
+  "ORDER": {
+    "message": "SİPARİŞ"
+  },
+  "preview": {
+    "message": "Önizleme"
+  },
+  "rename": {
+    "message": "Rename"
+  },
+  "download_simple": {
+    "message": "İndir"
+  },
+  "download": {
+    "message": "İndir"
+  },
+  "selectAll": {
+    "message": "TÜM"
+  },
+  "deSelect": {
+    "message": "Anti"
+  },
+  "pack": {
+    "message": "ZIP"
+  },
+  "other": {
+    "message": "Diğer"
+  },
+  "auto": {
+    "message": "otomatik"
+  },
+  "bigPictureFirst": {
+    "message": "Büyük"
+  },
+  "smallPictureFirst": {
+    "message": "Küçük"
+  },
+  "bigVideoFirst": {
+    "message": "Büyük"
+  },
+  "smallVideoFirst": {
+    "message": "Küçük"
+  },
+  "bigAudioFirst": {
+    "message": "Büyük"
+  },
+  "smallAudioFirst": {
+    "message": "Küçük"
+  },
+  "bigFileFirst": {
+    "message": "Büyük"
+  },
+  "smallFileFirst": {
+    "message": "Küçük"
+  },
+  "small": {
+    "message": "Küçük"
+  },
+  "big": {
+    "message": "Büyük"
+  },
+  "size": {
+    "message": "Boyut"
+  },
+  "openInNewWindow": {
+    "message": "Yeni pencerede aç"
+  },
+  "routine": {
+    "message": "Genel"
+  },
+  "notice": {
+    "message": "Bildirimler"
+  },
+  "router": {
+    "message": "Sınıflandırma"
+  },
+  "smartRules": {
+    "message": "Senaryo"
+  },
+  "enableOriginalBar": {
+    "message": "Orijinal indirme çubuğunu etkinleştir"
+  },
+  "enableContextMenu": {
+    "message": "Bağlam menüsü için DM'yi etkinleştir"
+  },
+  "notificationAfterFinished": {
+    "message": "İndirme tamamlandıktan sonra bildir"
+  },
+  "otificationAfterFailed": {
+    "message": "İndirme başarısız olduktan sonra bildir"
+  },
+  "playSoundAfterFinished": {
+    "message": "Tam sesi indir"
+  },
+  "playSoundAfterFailed": {
+    "message": "Hata sesi indir"
+  },
+  "enableRouter": {
+    "message": "İndirme sınıflandırmasını aç"
+  },
+  "routerExpound": {
+    "message": "Bu işlev, dosyaları otomatik olarak indirme klasöründeki ilgili alt klasörlere dağıtacaktır. Aşağıda, dosya uzantılarının bir listesi ve indirildikten sonra yerleştirilecekleri dizin bulunmaktadır."
+  },
+  "enableSmartScripts": {
+    "message": "Akıllı komut dosyasını aç"
+  },
+  "version": {
+    "message": "versiyon"
+  },
+  "update": {
+    "message": "Güncellemeleri kontrol"
+  },
+  "folder": {
+    "message": "Klasör"
+  },
+  "operation": {
+    "message": "operasyon"
+  },
+  "edit": {
+    "message": "Düzenle"
+  },
+  "save": {
+    "message": "Kayıt etmek"
+  },
+  "delete": {
+    "message": "Silmek"
+  },
+  "addDir": {
+    "message": "Dizin ekle"
+  },
+  "confirmDeletion": {
+    "message": "Silmeyi onayla "
+  },
+  "downloadUsingDM": {
+    "message": "İndir kullan DM"
+  },
+  "downloadAllImgUsingDM": {
+    "message": "Tüm resimleri indir"
+  },
+  "folderDuplicated": {
+    "message": "Klasör tekrarlanamaz"
+  },
+  "name": {
+    "message": "isim"
+  },
+  "URL": {
+    "message": "URL"
+  },
+  "DESC": {
+    "message": "Açıklama"
+  },
+  "fileHasBeenDeleted": {
+    "message": "Dosya silindi"
+  },
+  "downloadHasBeenCancelled": {
+    "message": "İndirme iptal edildi"
+  },
+  "updatedToTheLatestVersion": {
+    "message": "En son sürüme güncellendi"
+  },
+  "thisIsTheLatestVersion": {
+    "message": "Şu anda en son sürüm"
+  },
+  "checkNetworkConnection": {
+    "message": "Ağda anormallik, ağı veya proxy'yi kontrol edin"
+  },
+  "aboutDesc": {
+    "message": "AIX Akıllı indirici, indirme yönetimini verimli bir şekilde gerçekleştirebilir, web sayfası resimleri, videolar, sesler gibi içerikleri koklayabilir ve indirebilir ve aynı zamanda istediğiniz içeriği hızlı bir şekilde çıkarmak için birden fazla web sitesinden akıllı komut dosyalarını genişletebilir ve entegre edebilir."
+  },
+  "aboutHeaderDesc": {
+    "message": "Chrome'da en iyi akıllı indirici olmak"
+  },
+  "contactUs": {
+    "message": "Herhangi bir sorununuz varsa lütfen bizimle iletişime geçin"
+  },
+  "feedback": {
+    "message": "geri bildirim"
+  },
+  "fTitle": {
+    "message": "AIX Akıllı indirici"
+  },
+  "fTouch": {
+    "message": "Bize Ulaşın"
+  },
+  "fDesc": {
+    "message": "Geri bildirim için lütfen bizimle iletişime geçin veya yardıma ihtiyacınız var"
+  },
+  "fSupport": {
+    "message": "Ayrıca web mağazasında olumlu bir yorum yapabilir veya destek önerilerinde bulunabilirsiniz "
+  },
+  "fWebstore": {
+    "message": "Git"
+  },
+  "fMessage": {
+    "message": "Mesajın"
+  },
+  "fUploadImage": {
+    "message": "Resim yükle"
+  },
+  "fUuploadbutton": {
+    "message": "Resimleri yüklemek için lütfen buraya tıklayın"
+  },
+  "fEmail": {
+    "message": "E-posta adresiniz"
+  },
+  "fName": {
+    "message": "Adınız"
+  },
+  "fSend": {
+    "message": "Gönder"
+  },
+  "fSuccess": {
+    "message": "geri bildiriminiz için teşekkürler"
+  },
+  "fSendPicture": {
+    "message": "En fazla iki resim yükleyebilirsiniz"
+  },
+  "fSendFormat": {
+    "message": "Yüklenen resim resim formatında olmalıdır"
+  },
+  "fAlert": {
+    "message": "Lütfen e-posta biçiminizin doğru olup olmadığını kontrol edin,\nGeri bildirim mesajı en az 5 karakter olmalıdır."
+  },
+  "fText": {
+    "message": "Lütfen sorularınızı veya önerilerinizi yazın"
+  },
+  "SELA": {
+    "message": "hepsini seç"
+  },
+  "DSEL": {
+    "message": "ters seçim"
+  },
+  "DOWN": {
+    "message": "indir"
+  },
+  "EXETitle": {
+    "message": "AIX Akıllı indirici"
+  },
+  "EXELeftTitle": {
+    "message": "indirici"
+  },
+  "EXERightTitle": {
+    "message": "Tarayıcı"
+  },
+  "ruleDetail1": {
+    "message": "Bu biçime göre, {EXT}, resmin kendisinin son ekini koruyacaktır."
+  },
+  "ruleDetail2": {
+    "message": "\"pic_\" istediğiniz şekilde değiştirilebilir"
+  },
+  "ruleDetail3": {
+    "message": "Aşağıdaki değişkenler kullanılabilir:"
+  },
+  "ruleDetail4": {
+    "message": "{NO} seri numarasını belirtir; {NO01}, {NO001} seri numarasını 0 vb. ile belirtir; {EXT} uzantıyı belirtir; {NAME} orijinal dosya adını belirtir; {PAGETITLE} sayfa başlığını belirtir"
+  },
+  "ruleDetail5": {
+    "message": "Örneğin, dongman.jpg ve meijing.gif'in 2 resmi var"
+  },
+  "ruleDetail6": {
+    "message": "pic_{NO001}.{EXT} olarak yeniden adlandırılacak"
+  },
+  "ruleDetail7": {
+    "message": "{NAME}_{NO001}.{EXT} olarak yeniden adlandırılacak"
+  },
+  "details": {
+    "message": "ayrıntılar"
+  },
+  "retract": {
+    "message": "Ayrıntıları daralt"
+  },
+  "ruleDetail": {
+    "message": "{NO} seri numarası; {EXT} son ek adı; {NAME} orijinal dosya adı; {PAGETITLE} sayfa başlığı; {DATE} zaman damgası"
+  },
+  "choosePicture": {
+    "message": "Yorum alanı resmi"
+  },
+  "outSELA": {
+    "message": "TÜM"
+  },
+  "outDSEL": {
+    "message": "Anti"
+  },
+  "minWidth": {
+    "message": "minGenişlik"
+  },
+  "maxWidth": {
+    "message": "maxGenişlik"
+  },
+  "minHeight": {
+    "message": "minyükseklik"
+  },
+  "maxHeight": {
+    "message": "maxyükseklik"
+  },
+  "page": {
+    "message": "Yorum sayfası sayısı"
+  },
+  "to": {
+    "message": "ila"
+  },
+  "go": {
+    "message": "Elde"
+  },
+  "downloadCommentImage": {
+    "message": "Yorum resmini indir"
+  },
+  "help": {
+    "message": "Yardım"
+  },
+  "aboutOp": {
+    "message": "Hakkında"
+  },
+  "recommendations": {
+    "message": "Önermek"
+  },
+  "recommendationsDesc": {
+    "message": "AIX Akıllı indirici nasıl geliştireceğiniz konusunda daha iyi bir fikriniz mi var?"
+  },
+  "recommendationsDesc2": {
+    "message": "kullanmak"
+  },
+  "recommendationsDesc3": {
+    "message": "Fikirlerinizi bizimle paylaşmak için form. "
+  },
+  "bugs": {
+    "message": "Sorun"
+  },
+  "bugsDesc1": {
+    "message": "Bir sorun bulursanız, hemen yapabilirsiniz"
+  },
+  "bugsDesc2": {
+    "message": "Bize Ulaşın"
+  },
+  "bugsDesc3": {
+    "message": "."
+  },
+  "email": {
+    "message": "e-posta"
+  },
+  "group": {
+    "message": "Değişim grubu"
+  },
+  "oldVersion": {
+    "message": "Eski sürümü kullan"
+  },
+  "openInNewTab": {
+    "message": "Yeni sekmede aç"
+  },
+  "newTabTip": {
+    "message": "Filtreleme uygunsuz tıklayınız!"
+  },
+  "downloadButtonOn": {
+    "message": "Açık"
+  },
+  "downloadButtonOff": {
+    "message": "Kapalı"
+  },
+  "downloadButtonTip": {
+    "message": "DL Butonu"
+  },
+  "notifEnabledTip": {
+    "message": "Ayar başarılı ve yeniden başlattıktan sonra geçerli olacak. Şimdi yeniden başlatmak istiyor musunuz?"
+  },
+  "enableHotKey": {
+    "message": "Yeni sayfa çıkarma kısayolu"
+  },
+  "example": {
+    "message": "misal"
+  },
+  "hotKeyRemind": {
+    "message": "Lütfen kısayolu doğrudan klavyeden girin"
+  },
+  "exitSetting": {
+    "message": "Ayarlardan çık"
+  },
+  "enabledDragDownload": {
+    "message": "Sürükle ve bırak indirmeyi aç"
+  },
+  "dragDownloadTitle": {
+    "message": "İndirmek için buraya sürükleyin"
+  },
+  "dragDownloadDesc": {
+    "message": "Resim indirmeyi bitirecek"
+  },
+  "supportedBy": {
+    "message": "AIX Akıllı indirici"
+  },
+  "updt": {
+    "message": "Güncelleme"
+  },
+  "add": {
+    "message": "Ekle"
+  },
+  "cacheTitle": {
+    "message": "Video önbelleğinde lütfen videonun bulunduğu sayfayı yenilemeyin veya kapatmayın! ! !"
+  },
+  "opWebpToJpg": {
+    "message": "WEBP'i JPG'e dönüştür"
+  },
+  "opMoreImgSel": {
+    "message": "Daha fazla resim bilgisi göster"
+  },
+  "opSaveImgSize": {
+    "message": "Görüntü filtresi boyutunu hatırla"
+  },
+  "opExpPage": {
+    "message": "Sayfa bilgilerini dışa aktar"
+  },
+  "more": {
+    "message": "Daha"
+  },
+  "expImgLink": {
+    "message": "Görüntü bağlantısını dışa aktar"
+  },
+  "customFormat": {
+    "message": "Özel biçim"
+  },
+  "imgFilter": {
+    "message": "Filtre"
+  },
+  "imgFilterTitle": {
+    "message": "Görüntü filtrelemeyi aç"
+  },
+  "imgFilterDesc": {
+    "message": "Bu işlevi etkinleştirmek, web sitesinde istemediğiniz resimleri filtreleyecektir."
+  },
+  "imgFilterDesc2": {
+    "message": "Örnek: \nAlan adı \"*\", Normal ifade \".*?\", bu, tüm web sitelerinin tüm resimlerini filtrelemek anlamına gelir. (Alan adı \"*\" olarak ayarlanmış veya doldurulmamış, tüm web sitelerinin filtrelendiği anlamına gelir)\nAlan adı \"www.example.com\", Normal ifade \"abc\", içinde \"abc\" içeren resmi filtrelemek anlamına gelir \"www.example.com\" alan adının altındaki resim bağlantısı."
+  },
+  "imgFilterYm": {
+    "message": "alan adı"
+  },
+  "imgFilterReg": {
+    "message": "Düzenli ifade"
+  },
+  "domainDuplicated": {
+    "message": "Alan adı tekrarlanamaz"
+  },
+  "noData": {
+    "message": "Veri yok"
+  },
+  "enableBoxSelect": {
+    "message": "Resim sürükleme çerçevesi seçimi"
+  },
+  "noVideo": {
+    "message": "Videoyu alamadınız mı? Denemek için oynat'a tıklayın"
+  },
+  "noAudio": {
+    "message": "Sesi alamadınız mı? Denemek için oynat'a tıklayın"
+  },
+  "dupImgLinkNaming": {
+    "message": "Yinelenen resim bağlantı adı"
+  },
+  "YouTubeVideoError": {
+    "message": "Google ve Chrome web mağazası politikaları ve kısıtlamaları nedeniyle, video indirme, YouTube web sitesinde veya diğer web sitelerine yerleştirilmiş diğer YouTube videolarında çalışmaz."
+  },
+  "officialwebsite": {
+    "message": "resmi internet sitesi"
+  },
+  "formatError": {
+    "message": "format error"
+  },
+  "importRule": {
+    "message": "import"
+  },
+  "exportRule": {
+    "message": "export"
+  },
+  "notifications_success_title": {
+    "message": "İndirildi"
+  },
+  "notifications_fail_title": {
+    "message": "İndirme başarısız"
+  },
+  "notifications_open_file": {
+    "message": "Dosyayı aç"
+  },
+  "notifications_open_dir": {
+    "message": "Klasörde göster"
+  },
+  "analyzing": {
+    "message": "Analiz ediliyor"
+  }
+}

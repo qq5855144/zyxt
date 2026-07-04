@@ -1,0 +1,611 @@
+{
+  "default_title": {
+    "message": "AIX スマートダウンローダー(画像/ビデオ/音楽/ドキュメント)"
+  },
+  "description": {
+    "message": "AIX スマートダウンローダーは、ダウンロード管理、Webページの画像、ビデオ、オーディオなどのコンテンツのスニッフィングとダウンロードを効率的に実現すると同時に、複数のWebサイトのスマートスクリプトを拡張および統合して、必要なコンテンツをすばやく抽出できます。"
+  },
+  "picture": {
+    "message": "画像"
+  },
+  "all": {
+    "message": "全て"
+  },
+  "video": {
+    "message": "ビデオ"
+  },
+  "audio": {
+    "message": "音楽"
+  },
+  "file": {
+    "message": "ドキュメント"
+  },
+  "open": {
+    "message": "ファイルを開く"
+  },
+  "fileDeExist": {
+    "message": "ファイルが存在しません"
+  },
+  "openDirectory": {
+    "message": "ファイルディレクトリを開く"
+  },
+  "copyLink": {
+    "message": "ファイルリンクのコピー"
+  },
+  "copySuccess": {
+    "message": "成功したコピー"
+  },
+  "copyFailed": {
+    "message": "コピーに失敗しました"
+  },
+  "rFList": {
+    "message": "リストから削除"
+  },
+  "rFComputer": {
+    "message": "コンピュータから削除"
+  },
+  "suspend": {
+    "message": "一時停止"
+  },
+  "suspended": {
+    "message": "一時停止"
+  },
+  "continue": {
+    "message": "継続する"
+  },
+  "retry": {
+    "message": "リトライ"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "confirm": {
+    "message": "確認"
+  },
+  "confirmClear": {
+    "message": "空であることを確認する？"
+  },
+  "tips": {
+    "message": "ヒント"
+  },
+  "addDownloadLink": {
+    "message": "ダウンロードするリンクを追加"
+  },
+  "newDownloadTask": {
+    "message": "新しいダウンロードタスク"
+  },
+  "pleaseEnterTheLink": {
+    "message": "リンクを入力してください"
+  },
+  "downloading": {
+    "message": "ダウンロード中"
+  },
+  "completed": {
+    "message": "完了しました"
+  },
+  "wronged": {
+    "message": "異常ダウンロード"
+  },
+  "deleted": {
+    "message": "削除されました"
+  },
+  "filter": {
+    "message": "フィルタ"
+  },
+  "clearDownloadRecords": {
+    "message": "ダウンロード履歴をクリアするs"
+  },
+  "clearDownloaded": {
+    "message": "クリアダウンロード"
+  },
+  "clearWronged": {
+    "message": "クリアに失敗する"
+  },
+  "clearCeleted": {
+    "message": "クリア削除"
+  },
+  "clearAll": {
+    "message": "リストをクリアする"
+  },
+  "about": {
+    "message": "およそ"
+  },
+  "options": {
+    "message": "オプション"
+  },
+  "width": {
+    "message": "幅"
+  },
+  "height": {
+    "message": "高い"
+  },
+  "EXT": {
+    "message": "形式"
+  },
+  "SORT": {
+    "message": "分類"
+  },
+  "ORDER": {
+    "message": "順序"
+  },
+  "preview": {
+    "message": "見て"
+  },
+  "rename": {
+    "message": "名前"
+  },
+  "download_simple": {
+    "message": "Down"
+  },
+  "download": {
+    "message": "ダウンロード"
+  },
+  "selectAll": {
+    "message": "すべて"
+  },
+  "deSelect": {
+    "message": "変換"
+  },
+  "pack": {
+    "message": "ZIP"
+  },
+  "other": {
+    "message": "他の"
+  },
+  "auto": {
+    "message": "自動"
+  },
+  "bigPictureFirst": {
+    "message": "大優先"
+  },
+  "smallPictureFirst": {
+    "message": "小優先"
+  },
+  "bigVideoFirst": {
+    "message": "大優先"
+  },
+  "smallVideoFirst": {
+    "message": "小優先"
+  },
+  "bigAudioFirst": {
+    "message": "大優先"
+  },
+  "smallAudioFirst": {
+    "message": "小優先"
+  },
+  "bigFileFirst": {
+    "message": "大優先"
+  },
+  "smallFileFirst": {
+    "message": "小優先"
+  },
+  "small": {
+    "message": "小さい"
+  },
+  "big": {
+    "message": "大きい"
+  },
+  "size": {
+    "message": "サイズ"
+  },
+  "openInNewWindow": {
+    "message": "新しいウィンドウで開く"
+  },
+  "routine": {
+    "message": "従来の"
+  },
+  "notice": {
+    "message": "お知らせ"
+  },
+  "router": {
+    "message": "ファイル分類"
+  },
+  "smartRules": {
+    "message": "きそく"
+  },
+  "enableOriginalBar": {
+    "message": "Chromeオリジナルダウンロードバーを有効にする"
+  },
+  "enableContextMenu": {
+    "message": "右クリックして「DMダウンロード」を有効にします"
+  },
+  "notificationAfterFinished": {
+    "message": "完全な通知をダウンロードする"
+  },
+  "otificationAfterFailed": {
+    "message": "失敗通知のダウンロード"
+  },
+  "playSoundAfterFinished": {
+    "message": "完全なサウンドをダウンロード"
+  },
+  "playSoundAfterFailed": {
+    "message": "ダウンロード失敗音"
+  },
+  "enableRouter": {
+    "message": "ダウンロード分類を開始します"
+  },
+  "routerExpound": {
+    "message": "この関数は、ダウンロードフォルダー内の対応するサブフォルダーにファイルを自動的に配布します。 以下は、ファイル拡張子とダウンロード後に配置されるディレクトリのリストです。"
+  },
+  "enableSmartScripts": {
+    "message": "スマートスクリプトを開始する"
+  },
+  "version": {
+    "message": "バージョン"
+  },
+  "update": {
+    "message": "更新を確認する"
+  },
+  "folder": {
+    "message": "フォルダ"
+  },
+  "operation": {
+    "message": "オペレーティング"
+  },
+  "edit": {
+    "message": "編集"
+  },
+  "save": {
+    "message": "セーブ"
+  },
+  "delete": {
+    "message": "削除"
+  },
+  "addDir": {
+    "message": "ディレクトリを追加"
+  },
+  "confirmDeletion": {
+    "message": "削除を確認する "
+  },
+  "downloadUsingDM": {
+    "message": "スマートダウンローダを使用してダウンロード"
+  },
+  "downloadAllImgUsingDM": {
+    "message": "すべての画像をダウンロード"
+  },
+  "folderDuplicated": {
+    "message": "フォルダを繰り返すことはできません"
+  },
+  "name": {
+    "message": "名前"
+  },
+  "URL": {
+    "message": "URL"
+  },
+  "DESC": {
+    "message": "説明"
+  },
+  "fileHasBeenDeleted": {
+    "message": "ファイルが削除されました"
+  },
+  "downloadHasBeenCancelled": {
+    "message": "ダウンロードをキャンセル"
+  },
+  "updatedToTheLatestVersion": {
+    "message": "最新バージョンに更新"
+  },
+  "thisIsTheLatestVersion": {
+    "message": "現在最新バージョン"
+  },
+  "checkNetworkConnection": {
+    "message": "ネットワーク異常。ネットワークまたはプロキシを確認してください"
+  },
+  "aboutDesc": {
+    "message": "AIX スマートダウンローダーは、ダウンロード管理、Webページの画像、ビデオ、オーディオなどのコンテンツのスニッフィングとダウンロードを効率的に実現すると同時に、複数のWebサイトのスマートスクリプトを拡張および統合して、必要なコンテンツをすばやく抽出できます。"
+  },
+  "aboutHeaderDesc": {
+    "message": "最高のスマートダウンローダー"
+  },
+  "contactUs": {
+    "message": "ご不明な点がございましたらお問い合わせください"
+  },
+  "feedback": {
+    "message": "フィードバック"
+  },
+  "fTitle": {
+    "message": "AIX Downloader"
+  },
+  "fTouch": {
+    "message": "お問い合わせ"
+  },
+  "fDesc": {
+    "message": "フィードバックが必要な場合やサポートが必要な場合は、お問い合わせください"
+  },
+  "fSupport": {
+    "message": "オンラインストアで良いレビューをしたり、サポートの提案をしたりすることもできます "
+  },
+  "fWebstore": {
+    "message": "に移動"
+  },
+  "fMessage": {
+    "message": "メッセージを書く"
+  },
+  "fUploadImage": {
+    "message": "画像をアップロード"
+  },
+  "fUuploadbutton": {
+    "message": "ここに画像をアップロード"
+  },
+  "fEmail": {
+    "message": "あなたのメールボックス"
+  },
+  "fName": {
+    "message": "あなたの名前"
+  },
+  "fSend": {
+    "message": "送信"
+  },
+  "fSuccess": {
+    "message": "ご意見ありがとうございます"
+  },
+  "fSendPicture": {
+    "message": "アップロードできる画像は2枚までです"
+  },
+  "fSendFormat": {
+    "message": "画像形式である必要があります"
+  },
+  "fAlert": {
+    "message": "メールの形式が正しいかどうかを確認してください。\nフィードバックメッセージは5文字以上である必要があります。"
+  },
+  "fText": {
+    "message": "あなたの質問や提案を書き留めてください"
+  },
+  "SELA": {
+    "message": "すべて選択"
+  },
+  "DSEL": {
+    "message": "逆選挙"
+  },
+  "DOWN": {
+    "message": "ダウンロード"
+  },
+  "EXETitle": {
+    "message": "AIX Downloader"
+  },
+  "EXELeftTitle": {
+    "message": "管理"
+  },
+  "EXERightTitle": {
+    "message": "走査"
+  },
+  "ruleDetail1": {
+    "message": "この形式によると、{EXT}は画像自体のサフィックスを保持します"
+  },
+  "ruleDetail2": {
+    "message": "\"pic_\"は好きなように変更できます"
+  },
+  "ruleDetail3": {
+    "message": "以下の変数を使用できます:"
+  },
+  "ruleDetail4": {
+    "message": "{NO}はシリアル番号、{NO01}、{NO001}は0などのシリアル番号、{EXT}は拡張子、{NAME}は元のファイル名、{PAGETITLE}はページタイトルを示します"
+  },
+  "ruleDetail5": {
+    "message": "たとえば、dongman.jpgとmeijing.gifの2枚の画像があります"
+  },
+  "ruleDetail6": {
+    "message": "pic_{NO001}.{EXT}の名前がに変更されます"
+  },
+  "ruleDetail7": {
+    "message": "{NAME}_{NO001}.{EXT}の名前は次のように変更されます"
+  },
+  "details": {
+    "message": "詳細"
+  },
+  "retract": {
+    "message": "折りたたみ詳細"
+  },
+  "ruleDetail": {
+    "message": "{NO}シリアル番号; {EXT}サフィックス名; {NAME}元のファイル名; {PAGETITLE}ページタイトル; {DATE}タイムスタンプ"
+  },
+  "choosePicture": {
+    "message": "コメントエリア画像"
+  },
+  "outSELA": {
+    "message": "すべて"
+  },
+  "outDSEL": {
+    "message": "スイッチ"
+  },
+  "minWidth": {
+    "message": "最小幅"
+  },
+  "maxWidth": {
+    "message": "最大幅"
+  },
+  "minHeight": {
+    "message": "最小高さ"
+  },
+  "maxHeight": {
+    "message": "最大高さ"
+  },
+  "page": {
+    "message": "ページ数"
+  },
+  "to": {
+    "message": "に"
+  },
+  "go": {
+    "message": "入手する"
+  },
+  "downloadCommentImage": {
+    "message": "コメント画像をダウンロード"
+  },
+  "help": {
+    "message": "助けて"
+  },
+  "aboutOp": {
+    "message": "前書き"
+  },
+  "recommendations": {
+    "message": "提案する"
+  },
+  "recommendationsDesc": {
+    "message": "スマートダウンローダーを改善する方法についてより良いアイデアがありますか？"
+  },
+  "recommendationsDesc2": {
+    "message": "使用する"
+  },
+  "recommendationsDesc3": {
+    "message": "私たちとアイデアを共有するためのフォーム。"
+  },
+  "bugs": {
+    "message": "問題"
+  },
+  "bugsDesc1": {
+    "message": "すぐに問題を見つける"
+  },
+  "bugsDesc2": {
+    "message": "お問い合わせ"
+  },
+  "bugsDesc3": {
+    "message": "。"
+  },
+  "email": {
+    "message": "メールボックス"
+  },
+  "group": {
+    "message": "交換グループ"
+  },
+  "oldVersion": {
+    "message": "古いバージョンを使用する"
+  },
+  "openInNewTab": {
+    "message": "新しいタブで開く"
+  },
+  "newTabTip": {
+    "message": "フィルタリングは不便ですので、こちらをクリックしてください！"
+  },
+  "downloadButtonOn": {
+    "message": "有効"
+  },
+  "downloadButtonOff": {
+    "message": "無効"
+  },
+  "downloadButtonTip": {
+    "message": "DLボタン"
+  },
+  "notifEnabledTip": {
+    "message": "設定は成功し、再起動後に有効になります。今すぐ再起動しますか？"
+  },
+  "enableHotKey": {
+    "message": "新しいページ抽出ショートカット"
+  },
+  "example": {
+    "message": "例"
+  },
+  "hotKeyRemind": {
+    "message": "ショートカットをキーボードから直接入力してください"
+  },
+  "exitSetting": {
+    "message": "出口の設定"
+  },
+  "enabledDragDownload": {
+    "message": "ドラッグアンドドロップダウンロードを開く"
+  },
+  "dragDownloadTitle": {
+    "message": "ここにドラッグしてダウンロードします"
+  },
+  "dragDownloadDesc": {
+    "message": "画像のダウンロードが終了します"
+  },
+  "supportedBy": {
+    "message": "AIX スマートダウンローダー"
+  },
+  "updt": {
+    "message": "更新"
+  },
+  "add": {
+    "message": "追加"
+  },
+  "cacheTitle": {
+    "message": "ビデオキャッシュでは、ビデオが配置されているページを更新したり閉じたりしないでください！"
+  },
+  "opWebpToJpg": {
+    "message": "WEBPからJPG"
+  },
+  "opMoreImgSel": {
+    "message": "デフォルトでより多くの画像オプションを表示"
+  },
+  "opSaveImgSize": {
+    "message": "画像フィルターのサイズを覚えておいてください"
+  },
+  "opExpPage": {
+    "message": "ページ情報のエクスポート"
+  },
+  "more": {
+    "message": "もっと"
+  },
+  "expImgLink": {
+    "message": "画像のエクスポートリンク"
+  },
+  "customFormat": {
+    "message": "カスタムフォーマット"
+  },
+  "imgFilter": {
+    "message": "フィルタ"
+  },
+  "imgFilterTitle": {
+    "message": "画像フィルタリングをオンにする"
+  },
+  "imgFilterDesc": {
+    "message": "この機能を有効にすると、ウェブサイトから抽出したくない写真が除外されます"
+  },
+  "imgFilterDesc2": {
+    "message": "例：\nドメイン名 \"*\"、正規表現 \".*?\" は、ネットワーク全体のすべての画像をフィルタリングすることを意味します。（ドメイン名は \"*\" に設定するか、空白のままにします。これは、ネットワーク全体がフィルタリングされることを意味します）\nドメイン名 \"www.example.com\"、正規表現 \"abc\" は、 の下の画像リンクをフィルタリングすることを意味します \"www.example.com\" ドメイン名には \"abc\" の画像が含まれています。"
+  },
+  "imgFilterYm": {
+    "message": "ドメイン名"
+  },
+  "imgFilterReg": {
+    "message": "正規表現"
+  },
+  "domainDuplicated": {
+    "message": "ドメイン名を繰り返すことはできません"
+  },
+  "noData": {
+    "message": "データなし"
+  },
+  "enableBoxSelect": {
+    "message": "画像ドラッグボックスの選択を有効にする"
+  },
+  "noVideo": {
+    "message": "ビデオを取得しませんでしたか？ 再生をクリックして試してください"
+  },
+  "noAudio": {
+    "message": "音声が聞こえませんでしたか？ 再生をクリックして試してください"
+  },
+  "dupImgLinkNaming": {
+    "message": "重複する画像のリンク名"
+  },
+  "YouTubeVideoError": {
+    "message": "ビデオダウンローダーは、GoogleおよびChrome Webストアのポリシーと制限により、YouTubeWebサイトまたは他のWebサイトに埋め込まれている他のYouTubeビデオでは機能しません。"
+  },
+  "officialwebsite": {
+    "message": "公式ウェブサイト"
+  },
+  "formatError": {
+    "message": "format error"
+  },
+  "importRule": {
+    "message": "import"
+  },
+  "exportRule": {
+    "message": "export"
+  },
+  "notifications_success_title": {
+    "message": "ダウンロード完了"
+  },
+  "notifications_fail_title": {
+    "message": "ダウンロード失敗"
+  },
+  "notifications_open_file": {
+    "message": "ファイルを開く"
+  },
+  "notifications_open_dir": {
+    "message": "フォルダで表示"
+  },
+  "analyzing": {
+    "message": "分析中"
+  }
+}
